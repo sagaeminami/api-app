@@ -47,6 +47,8 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'rb-readline'
+  gem 'factory_bot_rails'
+  gem 'rspec-rails'
 end
 
 
